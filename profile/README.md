@@ -33,7 +33,9 @@ These started as three separate apps. They're becoming one ecosystem — same br
 
 [**off-grid-ai/mobile**](https://github.com/off-grid-ai/mobile)
 
-Chat, image, vision, voice, documents — all local. This is what you're using today. It will double as an opt-in offline recorder: think AI meeting recorder, but for life, with all processing on device and nothing ever shared. What Off Grid Desktop does for your laptop, Off Grid Mobile does for your phone. Never forget anything ever again.
+**Today:** Chat, image, vision, voice, documents — all local, all on your phone. This is what you're using today, the piece that came together as Off Grid itself.
+
+**Where it's headed:** It will double as an opt-in offline recorder. Think AI meeting recorder, but for life, with all processing on device and nothing ever shared. What Off Grid Desktop does for your laptop, Off Grid Mobile does for your phone. Never forget anything ever again.
 
 [Google Play](https://play.google.com/store/apps/details?id=ai.offgridmobile) · [App Store](https://apps.apple.com/us/app/off-grid-local-ai/id6759299882)
 
@@ -41,13 +43,17 @@ Chat, image, vision, voice, documents — all local. This is what you're using t
 
 [**off-grid-ai/desktop**](https://github.com/off-grid-ai/desktop)
 
-This is what *My Memories* becomes. A macOS app that watches relevant LLM windows and your browser (ChatGPT, Gemini, Claude for now), understands what each conversation is about, and stores it as memory. It downloads a model locally and does everything on device — no vendor lock-in, no data collected. Your thinking across every model lives in one place that's yours, even after you switch tools. It captures your day where you work: meetings, email, the context that makes everything else useful.
+**Today, as My Memories:** A macOS app that watches relevant LLM windows and your browser (ChatGPT, Gemini, Claude for now), understands what each conversation is about, and stores it as memory. It downloads a model locally and does everything on device — no vendor lock-in, no data collected. My Memories came before Off Grid; it's where the thesis started. Your thinking across every model lives in one place that's yours, even after you switch tools.
+
+**Where it's headed:** It becomes Off Grid Desktop, the intelligence layer for your laptop — capturing your day where you work. Meetings, email, the work context that makes everything else useful.
 
 ### Off Grid Sync — the backbone that moves it all between your devices
 
 [**off-grid-ai/sync**](https://github.com/off-grid-ai/sync)
 
-This is what *Easy Share* becomes. Moving sensitive text and files between your own devices without a third party in the middle. Think AirDrop, but Android to macOS and back — private, open source, no data collected. The backbone that moves all of this between your devices, privately and seamlessly.
+**Today, as Easy Share:** Moving sensitive text and files between your own devices without a third party in the middle. Think AirDrop, but Android to macOS and back — private, open source, no data collected. I built it because I needed it: a way to move things between my own devices with no cloud in between.
+
+**Where it's headed:** It becomes Off Grid Sync, the backbone that moves everything between your devices, privately and seamlessly — the connective tissue that lets Mobile and Desktop share one context that's only ever yours.
 
 ---
 
