@@ -29,23 +29,23 @@ I didn't start with this thesis fully formed. It got clearer as I built, listene
 
 These started as three separate apps. They're becoming one ecosystem — same brand, three products that close the loop between your physical and digital life.
 
-### 📱 Off Grid Mobile — on-device intelligence in your pocket
+### Off Grid Mobile — on-device intelligence in your pocket
 
-→ [**off-grid-ai/mobile**](https://github.com/off-grid-ai/mobile)
+[**off-grid-ai/mobile**](https://github.com/off-grid-ai/mobile)
 
 Chat, image, vision, voice, documents — all local. This is what you're using today. It will double as an opt-in offline recorder: think AI meeting recorder, but for life, with all processing on device and nothing ever shared. What Off Grid Desktop does for your laptop, Off Grid Mobile does for your phone. Never forget anything ever again.
 
 [Google Play](https://play.google.com/store/apps/details?id=ai.offgridmobile) · [App Store](https://apps.apple.com/us/app/off-grid-local-ai/id6759299882)
 
-### 💻 Off Grid Desktop — the intelligence layer for your laptop
+### Off Grid Desktop — the intelligence layer for your laptop
 
-→ [**off-grid-ai/desktop**](https://github.com/off-grid-ai/desktop)
+[**off-grid-ai/desktop**](https://github.com/off-grid-ai/desktop)
 
 This is what *My Memories* becomes. A macOS app that watches relevant LLM windows and your browser (ChatGPT, Gemini, Claude for now), understands what each conversation is about, and stores it as memory. It downloads a model locally and does everything on device — no vendor lock-in, no data collected. Your thinking across every model lives in one place that's yours, even after you switch tools. It captures your day where you work: meetings, email, the context that makes everything else useful.
 
-### 🔄 Off Grid Sync — the backbone that moves it all between your devices
+### Off Grid Sync — the backbone that moves it all between your devices
 
-→ [**off-grid-ai/sync**](https://github.com/off-grid-ai/sync)
+[**off-grid-ai/sync**](https://github.com/off-grid-ai/sync)
 
 This is what *Easy Share* becomes. Moving sensitive text and files between your own devices without a third party in the middle. Think AirDrop, but Android to macOS and back — private, open source, no data collected. The backbone that moves all of this between your devices, privately and seamlessly.
 
