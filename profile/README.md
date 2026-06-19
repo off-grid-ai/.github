@@ -6,7 +6,6 @@
 
 [![Slack](https://img.shields.io/badge/Slack-Join%20Community-4A154B?logo=slack)](https://join.slack.com/t/off-grid-mobile/shared_invite/zt-3q7kj5gr6-rVzx5gl5LKPQh4mUE2CCvA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/off-grid-ai/mobile/blob/main/LICENSE)
-[![Off Grid Pro](https://img.shields.io/badge/Off%20Grid%20Pro-%2450%20lifetime-000000?style=flat)](https://offgridmobileai.co/pay/)
 
 <sub><b>BUILT BY</b></sub>
 
@@ -22,9 +21,7 @@
 
 The idea I keep coming back to: intelligence should live on the devices you already own, with your full context, without you handing your life to a cloud you don't control. Today, the most useful AI is the one that knows everything about you. Getting that usually means giving everything away. I don't think it should.
 
-I didn't start with this thesis fully formed. It got clearer as I built, listened, and solved my own problems. Three of those problems became three pieces that are starting to fit together.
-
-We're launching **Pro** soon. Pro is one step, not the destination. This note is where Off Grid is actually headed.
+I didn't start with this thesis fully formed. It got clearer as I built, listened, and solved my own problems. Three of those problems became three pieces that are starting to fit together. This note is where Off Grid is actually headed.
 
 ---
 
@@ -64,9 +61,7 @@ I'll be honest about the timeline. This is a hard problem, even with AI in the l
 
 ## The deal, plainly
 
-The **core stays open.** The integration that ties these three products together is open source and free. Some advanced and opt-in features will sit in **Pro**. Pro is what keeps the lights on so the core can keep getting better.
-
-[**Off Grid Pro — $50 lifetime**](https://offgridmobileai.co/pay/)
+The **core stays open.** The integration that ties these three products together is open source and free. Everything runs on your device — no vendor lock-in, no data collected.
 
 ---
 
