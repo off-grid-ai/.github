@@ -2,7 +2,7 @@
 
 # Off Grid
 
-### Intelligence that lives on the devices you already own — with your full context, without handing your life to a cloud you don't control.
+### Intelligence should live on the devices you already own, with your full context, without handing your life to a cloud you don't control.
 
 [![Slack](https://img.shields.io/badge/Slack-Join%20Community-4A154B?logo=slack)](https://join.slack.com/t/off-grid-mobile/shared_invite/zt-3q7kj5gr6-rVzx5gl5LKPQh4mUE2CCvA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/off-grid-ai/mobile/blob/main/LICENSE)
@@ -17,7 +17,7 @@
 
 ## Where Off Grid is headed
 
-> A note from Mac to the community. None of it is fixed — I'd rather build this with you than for you.
+> A note from Mac to the community. None of it is fixed. I'd rather build this with you than for you.
 
 The idea I keep coming back to: intelligence should live on the devices you already own, with your full context, without you handing your life to a cloud you don't control. Today, the most useful AI is the one that knows everything about you. Getting that usually means giving everything away. I don't think it should.
 
@@ -27,39 +27,39 @@ I didn't start with this thesis fully formed. It got clearer as I built, listene
 
 ## Three products, one ecosystem
 
-These started as three separate apps. They're becoming one ecosystem — same brand, three products that close the loop between your physical and digital life.
+These started as three separate apps. They're becoming one ecosystem. Same brand, three products that close the loop between your physical and digital life.
 
-### Off Grid Mobile — on-device intelligence in your pocket
+### Off Grid Mobile
 
-[**off-grid-ai/mobile**](https://github.com/off-grid-ai/mobile)
+[off-grid-ai/mobile](https://github.com/off-grid-ai/mobile)
 
-**Today:** Chat, image, vision, voice, documents — all local, all on your phone. This is what you're using today, the piece that came together as Off Grid itself.
+Off Grid Mobile is on-device intelligence in your pocket. Chat, image, vision, voice, documents, all local. This is what you're using today.
 
-**Where it's headed:** It will double as an opt-in offline recorder. Think AI meeting recorder, but for life, with all processing on device and nothing ever shared. What Off Grid Desktop does for your laptop, Off Grid Mobile does for your phone. Never forget anything ever again.
+It will also double as an opt-in offline recorder. Think AI meeting recorder, but for life, with all processing on device and nothing ever shared. What Off Grid Desktop does for your laptop, Off Grid Mobile does for your phone. Never forget anything ever again.
 
 [Google Play](https://play.google.com/store/apps/details?id=ai.offgridmobile) · [App Store](https://apps.apple.com/us/app/off-grid-local-ai/id6759299882)
 
-### Off Grid Desktop — the intelligence layer for your laptop
+### Off Grid Desktop
 
-[**off-grid-ai/desktop**](https://github.com/off-grid-ai/desktop)
+[off-grid-ai/desktop](https://github.com/off-grid-ai/desktop)
 
-**Today, as My Memories:** A macOS app that watches relevant LLM windows and your browser (ChatGPT, Gemini, Claude for now), understands what each conversation is about, and stores it as memory. It downloads a model locally and does everything on device — no vendor lock-in, no data collected. My Memories came before Off Grid; it's where the thesis started. Your thinking across every model lives in one place that's yours, even after you switch tools.
+Off Grid Desktop is what My Memories becomes. My Memories came first, before Off Grid. It's a macOS app that watches relevant LLM windows and your browser (ChatGPT, Gemini, Claude for now), understands what each conversation is about, and stores it as memory. It downloads a model locally and does everything on device. No vendor lock-in, no data collected. Your thinking across every model lives in one place that's yours, even after you switch tools.
 
-**Where it's headed:** It becomes Off Grid Desktop, the intelligence layer for your laptop — capturing your day where you work. Meetings, email, the work context that makes everything else useful.
+As Off Grid Desktop it becomes the intelligence layer for your laptop, capturing your day where you work: meetings, email, the work context that makes everything else useful.
 
-### Off Grid Sync — the backbone that moves it all between your devices
+### Off Grid Sync
 
-[**off-grid-ai/sync**](https://github.com/off-grid-ai/sync)
+[off-grid-ai/sync](https://github.com/off-grid-ai/sync)
 
-**Today, as Easy Share:** Moving sensitive text and files between your own devices without a third party in the middle. Think AirDrop, but Android to macOS and back — private, open source, no data collected. I built it because I needed it: a way to move things between my own devices with no cloud in between.
+Off Grid Sync is what Easy Share becomes. Easy Share solved a different itch: moving sensitive text and files between my own devices without a third party in the middle. Think AirDrop, but Android to macOS and back. Private, open source, no data collected. I built it because I needed it.
 
-**Where it's headed:** It becomes Off Grid Sync, the backbone that moves everything between your devices, privately and seamlessly — the connective tissue that lets Mobile and Desktop share one context that's only ever yours.
+As Off Grid Sync it becomes the backbone that moves all of this between your devices, privately and seamlessly.
 
 ---
 
 ## How we build the intelligent layer
 
-This isn't one of those open-ended agents you hand the keys to and hope it figures things out. Even the open-source ones running local models work that way. Ours is **structured, with guardrails you set, so you stay in control.** That structure is what makes the upside real instead of reckless.
+This isn't one of those open-ended agents you hand the keys to and hope it figures things out. Even the open-source ones running local models work that way. Ours is structured, with guardrails you set, so you stay in control. That structure is what makes the upside real instead of reckless.
 
 I'll be honest about the timeline. This is a hard problem, even with AI in the loop. It will take time, and I'll get parts of it wrong before I get them right. I'd rather tell you that now than pretend otherwise.
 
@@ -67,7 +67,7 @@ I'll be honest about the timeline. This is a hard problem, even with AI in the l
 
 ## The deal, plainly
 
-The **core stays open.** The integration that ties these three products together is open source and free. Everything runs on your device — no vendor lock-in, no data collected.
+The core stays open. The integration that ties these three products together is open source and free. Everything runs on your device. No vendor lock-in, no data collected.
 
 ---
 
@@ -75,7 +75,7 @@ The **core stays open.** The integration that ties these three products together
 
 A lot of what's here exists because of feedback from the community. You've shaped this more than once already.
 
-**What would make this genuinely useful for how you actually work and live? Tell me.**
+What would make this genuinely useful for how you actually work and live? Tell me.
 
 [Join the Slack community](https://join.slack.com/t/off-grid-mobile/shared_invite/zt-3q7kj5gr6-rVzx5gl5LKPQh4mUE2CCvA)
 
