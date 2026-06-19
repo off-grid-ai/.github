@@ -5,7 +5,6 @@
 ### Intelligence should live on the devices you already own, with your full context, without handing your life to a cloud you don't control.
 
 [![Slack](https://img.shields.io/badge/Slack-Join%20Community-4A154B?logo=slack)](https://join.slack.com/t/off-grid-mobile/shared_invite/zt-3q7kj5gr6-rVzx5gl5LKPQh4mUE2CCvA)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/off-grid-ai/mobile/blob/main/LICENSE)
 
 <sub><b>BUILT BY</b></sub>
 
