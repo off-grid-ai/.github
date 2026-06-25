@@ -62,13 +62,19 @@ As Off Grid Sync it becomes the backbone that moves all of this between your dev
 
 [off-grid-ai/console](https://github.com/off-grid-ai/console)
 
-The three products above are for you. But once people ran them at work, a harder question showed up: how does a company get AI that's actually useful without shipping its data to a cloud it doesn't control? Same thesis, bigger stakes.
+The three products above are for you. Console is for the company you work in. The question enterprises kept asking wasn't "how do we stay private" — it was "how do we actually put AI agents in the hands of our field force and trust what they do?" Rolling out agents across a workforce is a deployment and governance problem, and that's the one Console solves.
 
-Off Grid Console is the answer. It's a self-hostable control plane that governs a fleet of Off Grid devices from one place, while every device keeps running its models and enforcing policy locally. The console defines and observes; the device enforces and runs. It pushes policy, config, and knowledge down to the fleet and pulls audit, telemetry, and distilled learnings back up. It never sees your raw screen or your raw data.
+Off Grid Console is the control plane for deploying AI agents across an organization, with the entire agentic stack baked in instead of stitched together. It governs a fleet of Off Grid devices from one place: push agents out to your field force, set the rules centrally, watch every run — while each device keeps running its models locally.
 
-That gives an org the things truly-local AI usually can't offer: prove sensitive data never left the device, keep regulated traffic on-device by policy, attribute cost by team, ground answers in a private knowledge base, and answer a regulator with live evidence instead of a slide deck. It's modular and API-first, so a team can take just the piece they need or the whole thing.
+It's built as the five planes of agentic AI, with QA, grounding, evals, drift detection, and provenance running in-path on every request — not bolted on after:
 
-This is how Off Grid pays for itself without selling you out: the core stays open and free for individuals, and organizations pay for the layer that governs it.
+- **Data** — connect your databases, warehouses, and SaaS; ingest into a private knowledge base with PII masking, cataloging, and retention/erasure.
+- **Control** — the gateway as a single chokepoint: policy, model routing, guardrails, RBAC/ABAC, and an append-only audit log on every call.
+- **AI** — the Brain: retrieval, grounding (does each claim follow from its cited source?), a tool and agent registry, and evals + drift so answer quality doesn't silently rot.
+- **Org / Regulatory** — live framework coverage, a governance registry, cost attribution by team and project, and one-click regulator/DPIA packs built from real evidence.
+- **Consumption** — the agents themselves: pre-built use cases, each run traced end to end (plan → retrieve → ground → answer) with citations you can inspect.
+
+It's modular and API-first, so a team can take just the Brain, just the agents, just the API, or the whole plane. And because every device still runs locally, you get all of this without your data leaving the company. This is how Off Grid pays for itself: the core stays open and free for individuals; organizations pay for the layer that deploys and governs agents at scale.
 
 ---
 
