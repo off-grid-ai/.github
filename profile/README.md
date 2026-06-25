@@ -42,9 +42,11 @@ It will also double as an opt-in offline recorder. Think AI meeting recorder, bu
 
 [off-grid-ai/desktop](https://github.com/off-grid-ai/desktop)
 
-Off Grid Desktop is what My Memories becomes. My Memories came first, before Off Grid. It's a macOS app that watches relevant LLM windows and your browser (ChatGPT, Gemini, Claude for now), understands what each conversation is about, and stores it as memory. It downloads a model locally and does everything on device. No vendor lock-in, no data collected. Your thinking across every model lives in one place that's yours, even after you switch tools.
+Off Grid Desktop is what My Memories becomes. My Memories came first, before Off Grid. It's a macOS app that watches relevant LLM windows and your browser, understands what each conversation is about, and stores it as memory. Your thinking across every model lives in one place that's yours, even after you switch tools.
 
-As Off Grid Desktop it becomes the intelligence layer for your laptop, capturing your day where you work: meetings, email, the work context that makes everything else useful.
+It's grown well past that. Off Grid Desktop is now a full local-first AI studio: chat with vision and reasoning, on-device image generation, voice in and out, live artifacts, and projects you can ground in your own documents. Everything runs on a model you download, behind one local OpenAI-compatible gateway, so any app on your machine can use it as its private AI backend. No accounts, no API keys, nothing leaves the device.
+
+On top of that runs the part I care about most: a layer that sees your day where you work (screen, meetings, the work context that makes everything else useful), remembers it, helps you reflect on it, and, with your approval, acts on it. The intelligence layer for your laptop.
 
 ### Off Grid Sync
 
@@ -53,6 +55,20 @@ As Off Grid Desktop it becomes the intelligence layer for your laptop, capturing
 Off Grid Sync is what Easy Share becomes. Easy Share solved a different itch: moving sensitive text and files between my own devices without a third party in the middle. Think AirDrop, but Android to macOS and back. Private, open source, no data collected. I built it because I needed it.
 
 As Off Grid Sync it becomes the backbone that moves all of this between your devices, privately and seamlessly.
+
+---
+
+## When teams asked for it: Off Grid Console
+
+[off-grid-ai/console](https://github.com/off-grid-ai/console)
+
+The three products above are for you. But once people ran them at work, a harder question showed up: how does a company get AI that's actually useful without shipping its data to a cloud it doesn't control? Same thesis, bigger stakes.
+
+Off Grid Console is the answer. It's a self-hostable control plane that governs a fleet of Off Grid devices from one place, while every device keeps running its models and enforcing policy locally. The console defines and observes; the device enforces and runs. It pushes policy, config, and knowledge down to the fleet and pulls audit, telemetry, and distilled learnings back up. It never sees your raw screen or your raw data.
+
+That gives an org the things truly-local AI usually can't offer: prove sensitive data never left the device, keep regulated traffic on-device by policy, attribute cost by team, ground answers in a private knowledge base, and answer a regulator with live evidence instead of a slide deck. It's modular and API-first, so a team can take just the piece they need or the whole thing.
+
+This is how Off Grid pays for itself without selling you out: the core stays open and free for individuals, and organizations pay for the layer that governs it.
 
 ---
 
