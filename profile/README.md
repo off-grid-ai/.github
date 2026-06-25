@@ -62,7 +62,7 @@ As Off Grid Sync it becomes the backbone that moves all of this between your dev
 
 [off-grid-ai/console](https://github.com/off-grid-ai/console)
 
-The three products above are for you. Console is for the company you work in. The question enterprises kept asking wasn't "how do we stay private" — it was "how do we actually put AI agents in the hands of our field force and trust what they do?" Rolling out agents across a workforce is a deployment and governance problem, and that's the one Console solves.
+The three products above are for you. Console is for the company you work in. The question enterprises kept asking wasn't "how do we stay private" — it was "our people are already using AI; can we see it, govern it, and trust what the agents do?" Putting agents in the hands of a workforce — and governing every call they make — is a deployment and governance problem, and that's the one Console solves.
 
 Off Grid Console is the control plane for deploying AI agents across an organization, with the entire agentic stack baked in instead of stitched together. It governs a fleet of Off Grid devices from one place: push agents out to your field force, set the rules centrally, watch every run — while each device keeps running its models locally.
 
