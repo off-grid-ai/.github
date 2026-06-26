@@ -76,9 +76,17 @@ It's built as the five planes of agentic AI, with QA, grounding, evals, drift de
 
 - **Data** — connect your databases, warehouses, and SaaS; ingest into a private knowledge base with PII masking, cataloging, and retention/erasure.
 - **Control** — the gateway as a single chokepoint: policy, model routing, guardrails, RBAC/ABAC, and an append-only audit log on every call.
-- **AI** — the Brain: retrieval, grounding (does each claim follow from its cited source?), a tool and agent registry, and evals + drift so answer quality doesn't silently rot.
+- **AI** — the Brain: retrieval, grounding (does each claim follow from its cited source?), and a tool and agent registry.
 - **Org / Regulatory** — live framework coverage, a governance registry, cost attribution by team and project, and one-click regulator/DPIA packs built from real evidence.
 - **Consumption** — the agents themselves: pre-built use cases, each run traced end to end (plan → retrieve → ground → answer) with citations you can inspect.
+
+And running across all of it: **Agent QA** — proof the agents are still doing a good job. Shipping an agent is the start, not the finish: models drift, prompts rot, retrieval degrades, and a system that was correct last month can quietly get worse. Agent QA answers "are they working, and if not, which one regressed and when?" across three lanes:
+
+- **Offline evals** — golden-set recall plus promptfoo assertion matrices and Ragas RAG metrics, to regression-test agents before release.
+- **Online scoring** — an LLM-as-judge scores live traffic for quality and faithfulness and trends it in Langfuse; a falling score is your alarm.
+- **Drift & degradation** — population-stability plus Evidently test suites catch distribution shift and quality decay over time.
+
+It runs in-path on every request, alongside OpenTelemetry traces and per-call cost — so quality is an ongoing production signal, not a one-time pre-release check.
 
 It's modular and API-first, so a team can take just the Brain, just the agents, just the API, or the whole plane. And because every device still runs locally, you get all of this without your data leaving the company. This is how Off Grid AI pays for itself: the core stays open and free for individuals; organizations pay for the layer that deploys and governs agents at scale.
 
