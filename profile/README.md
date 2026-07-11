@@ -70,7 +70,7 @@ As Off Grid AI Sync it becomes the backbone that moves all of this between your 
 
 The three products above are for you. Console is for the company you work in. The question enterprises kept asking wasn't "how do we stay private" — it was "our people are already using AI; can we see it, govern it, and trust what the agents do?" Putting agents in the hands of a workforce — and governing every call they make — is a deployment and governance problem, and that's the one Console solves.
 
-Off Grid AI Console is the control plane for deploying AI agents across an organization, with the entire agentic stack baked in instead of stitched together. It governs a fleet of Off Grid devices from one place: push agents out to your field force, set the rules centrally, watch every run — while each device keeps running its models locally.
+Off Grid AI Console is the control plane for deploying AI agents across an organization, with the entire agentic stack baked in instead of stitched together. It governs your AI fleet from one place: set the rules centrally, watch every run, and see and secure the devices AI runs on — while each device keeps running its models locally.
 
 It's built as the five planes of agentic AI, with QA, grounding, evals, drift detection, and provenance running in-path on every request — not bolted on after:
 
