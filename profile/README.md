@@ -68,9 +68,9 @@ As Off Grid AI Sync it becomes the backbone that moves all of this between your 
 
 [off-grid-ai/console](https://github.com/off-grid-ai/console)
 
-The three products above are for you. Console is for the company you work in. The question enterprises kept asking wasn't "how do we stay private" — it was "our people are already using AI; can we see it, govern it, and trust what the agents do?" Putting agents in the hands of a workforce — and governing every call they make — is a deployment and governance problem, and that's the one Console solves.
+The three products above are for you. Console is for the company you work in. Individual productivity with AI is already solved — any one person gets more done with a chatbot. Harnessing that across a whole organization is not. Console is the attempt to crack that: give **every employee, not just engineers**, the power to put frontier models to work on the company's own data and processes — describe what you need in plain language, get back a working, governed workflow — with governance on every call. Real change reaches the population through the enterprises that serve it, so the way to have impact at that scale is to make those enterprises intelligent, in the hands of the people who already run them.
 
-Off Grid AI Console is the control plane for deploying AI agents across an organization, with the entire agentic stack baked in instead of stitched together. It governs your AI fleet from one place: set the rules centrally, watch every run, and see and secure the devices AI runs on — while each device keeps running its models locally.
+Off Grid AI Console is **AWS for AI.** Every piece you need to run AI in a company already exists — a gateway to the models, evals, guardrails, PII masking, data pipelines, audit, lineage, knowledge bases. The problem was never the parts; it was wiring them into one thing that works and keeping every team inside the rules. AWS meant you stopped assembling servers. Off Grid AI Console means you stop assembling AI infrastructure: one interface where all of it is already set up and connected. You define your organization's rules, policies, guardrails, and knowledge once, everyone builds governed AI on top, and it just works — while each device keeps running its models locally.
 
 It's built as the five planes of agentic AI, with QA, grounding, evals, drift detection, and provenance running in-path on every request — not bolted on after:
 
@@ -88,7 +88,7 @@ And running across all of it: **Agent QA** — proof the agents are still doing 
 
 It runs in-path on every request, alongside OpenTelemetry traces and per-call cost — so quality is an ongoing production signal, not a one-time pre-release check.
 
-It's modular and API-first, so a team can take just the Brain, just the agents, just the API, or the whole plane. And because every device still runs locally, you get all of this without your data leaving the company. This is how Off Grid AI pays for itself: the core stays open and free for individuals; organizations pay for the layer that deploys and governs agents at scale.
+It's modular and API-first, so a team can take just the Brain, just the agents, just the API, or the whole plane. And because every device still runs locally, you get all of this without your data leaving the company, on open foundations you can inspect and run yourself. This is how Off Grid AI pays for itself: the core stays open and free for individuals; organizations pay for the layer that deploys and governs agents at scale.
 
 ---
 
