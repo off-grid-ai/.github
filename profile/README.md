@@ -30,7 +30,7 @@ I didn't start with this thesis fully formed. It got clearer as I built, listene
 
 These started as three separate apps. They're becoming one ecosystem. Same brand, three products that close the loop between your physical and digital life.
 
-### Off Grid AI Mobile
+### Off Grid AI Mobile (OGAM)
 
 [off-grid-ai/mobile](https://github.com/off-grid-ai/mobile)
 
@@ -42,7 +42,7 @@ It will also double as an opt-in offline recorder. Think AI meeting recorder, bu
 
 [Google Play](https://play.google.com/store/apps/details?id=ai.offgridmobile) · [App Store](https://apps.apple.com/us/app/off-grid-local-ai/id6759299882)
 
-### Off Grid AI Desktop
+### Off Grid AI Desktop (OGAD)
 
 [off-grid-ai/desktop](https://github.com/off-grid-ai/desktop)
 
@@ -64,13 +64,13 @@ As Off Grid AI Sync it becomes the backbone that moves all of this between your 
 
 ---
 
-## When teams asked for it: Off Grid AI Console
+## When teams asked for it: Off Grid AI Console (OGAC)
 
 [off-grid-ai/console](https://github.com/off-grid-ai/console)
 
 The three products above are for you. Console is for the company you work in. Individual productivity with AI is already solved — any one person gets more done with a chatbot. Harnessing that across a whole organization is not. Console is the attempt to crack that: give **every employee, not just engineers**, the power to put frontier models to work on the company's own data and processes — describe what you need in plain language, get back a working, governed workflow — with governance on every call. Real change reaches the population through the enterprises that serve it, so the way to have impact at that scale is to make those enterprises intelligent, in the hands of the people who already run them.
 
-Off Grid AI Console is **AWS for AI.** Every piece you need to run AI in a company already exists — a gateway to the models, evals, guardrails, PII masking, data pipelines, audit, lineage, knowledge bases. The problem was never the parts; it was wiring them into one thing that works and keeping every team inside the rules. AWS meant you stopped assembling servers. Off Grid AI Console means you stop assembling AI infrastructure: one interface where all of it is already set up and connected. You define your organization's rules, policies, guardrails, and knowledge once, everyone builds governed AI on top, and it just works — while each device keeps running its models locally.
+Off Grid AI Console is **AWS for AI** — open source, and built on open source — so your AI usage is reliable, secure, governed, and compliant by default. It's the bridge between everything already inside the enterprise (your data, your context, your processes, your people) and the fast-rising intelligence of frontier models. Every piece you'd otherwise wire together yourself — the gateway to the models, evals, guardrails, PII masking, data pipelines, audit, lineage, knowledge bases — is already here and connected. AWS meant you stopped assembling servers; this means you stop assembling AI infrastructure. Set your organization's rules, policies, guardrails, and knowledge once, and everyone builds governed AI on top — while each device keeps running its models locally. Designed so non-technical people can codify what they do and multiply their output. The one-stop platform.
 
 It's built as the five planes of agentic AI, with QA, grounding, evals, drift detection, and provenance running in-path on every request — not bolted on after:
 
