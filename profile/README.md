@@ -1,6 +1,6 @@
-<img src="logo.png" alt="Off Grid AI" width="112" align="left" />
+# Off Grid AI
 
-### Off Grid AI
+<img src="logo.png" alt="Off Grid AI" width="104" align="left" />
 
 Intelligence should live on the devices you already own, with your full context, without handing your life to a cloud you don't control.
 
@@ -9,9 +9,9 @@ Intelligence should live on the devices you already own, with your full context,
 [![OGAC stars](https://img.shields.io/github/stars/off-grid-ai/OGAC?style=flat&logo=github&label=OGAC&labelColor=000000&color=059669)](https://github.com/off-grid-ai/OGAC/stargazers)
 [![Slack](https://img.shields.io/badge/Slack-Join%20Community-4A154B?logo=slack)](https://join.slack.com/t/off-grid-mobile/shared_invite/zt-3q7kj5gr6-rVzx5gl5LKPQh4mUE2CCvA)
 
-<sub><b>BUILT BY</b> <a href="https://wednesday.is/?utm_source=github&utm_medium=offgrid-org-readme&utm_content=logo">Wednesday Solutions</a></sub>
-
 <br clear="left" />
+
+<sub><b>BUILT BY</b> <a href="https://wednesday.is/?utm_source=github&utm_medium=offgrid-org-readme&utm_content=logo">Wednesday Solutions</a></sub>
 
 ---
 
