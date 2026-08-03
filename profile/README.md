@@ -1,18 +1,17 @@
-<div align="center">
+<img src="logo.png" alt="Off Grid AI" width="112" align="left" />
 
-<img src="logo.png" alt="Off Grid AI" width="120" />
+### Off Grid AI
 
-# Off Grid AI
+Intelligence should live on the devices you already own, with your full context, without handing your life to a cloud you don't control.
 
-### Intelligence should live on the devices you already own, with your full context, without handing your life to a cloud you don't control.
-
+[![OGAM stars](https://img.shields.io/github/stars/off-grid-ai/OGAM?style=flat&logo=github&label=OGAM&labelColor=000000&color=059669)](https://github.com/off-grid-ai/OGAM/stargazers)
+[![OGAD stars](https://img.shields.io/github/stars/off-grid-ai/OGAD?style=flat&logo=github&label=OGAD&labelColor=000000&color=059669)](https://github.com/off-grid-ai/OGAD/stargazers)
+[![OGAC stars](https://img.shields.io/github/stars/off-grid-ai/OGAC?style=flat&logo=github&label=OGAC&labelColor=000000&color=059669)](https://github.com/off-grid-ai/OGAC/stargazers)
 [![Slack](https://img.shields.io/badge/Slack-Join%20Community-4A154B?logo=slack)](https://join.slack.com/t/off-grid-mobile/shared_invite/zt-3q7kj5gr6-rVzx5gl5LKPQh4mUE2CCvA)
 
-<sub><b>BUILT BY</b></sub>
+<sub><b>BUILT BY</b> <a href="https://wednesday.is/?utm_source=github&utm_medium=offgrid-org-readme&utm_content=logo">Wednesday Solutions</a></sub>
 
-<a href="https://wednesday.is/?utm_source=github&utm_medium=offgrid-org-readme&utm_content=logo"><strong>Wednesday Solutions</strong></a>
-
-</div>
+<br clear="left" />
 
 ---
 
