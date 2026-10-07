@@ -2,12 +2,15 @@
 
 <img src="logo.png" alt="Off Grid AI" width="104" align="left" />
 
-Intelligence should live on the devices you already own, with your full context, without handing your life to a cloud you don't control.
+Run AI on the devices you already own. Keep your models and personal data under your control.
+
+Available across Android, iOS, Linux, Windows, and macOS.
 
 [![OGAM stars](https://img.shields.io/github/stars/off-grid-ai/OGAM?style=flat&logo=github&label=OGAM&labelColor=000000&color=059669)](https://github.com/off-grid-ai/OGAM/stargazers)
 [![OGAD stars](https://img.shields.io/github/stars/off-grid-ai/OGAD?style=flat&logo=github&label=OGAD&labelColor=000000&color=059669)](https://github.com/off-grid-ai/OGAD/stargazers)
-[![OGAC stars](https://img.shields.io/github/stars/off-grid-ai/OGAC?style=flat&logo=github&label=OGAC&labelColor=000000&color=059669)](https://github.com/off-grid-ai/OGAC/stargazers)
+[![OGAS stars](https://img.shields.io/github/stars/off-grid-ai/OGAS?style=flat&logo=github&label=OGAS&labelColor=000000&color=059669)](https://github.com/off-grid-ai/OGAS/stargazers)
 [![Slack](https://img.shields.io/badge/Slack-Join%20Community-4A154B?logo=slack)](https://join.slack.com/t/off-grid-mobile/shared_invite/zt-3q7kj5gr6-rVzx5gl5LKPQh4mUE2CCvA)
+[![Reddit](https://img.shields.io/badge/Reddit-r%2Foff_grid_ai-FF4500?logo=reddit&logoColor=white)](https://reddit.com/r/off_grid_ai)
 
 <br clear="left" />
 
@@ -15,104 +18,46 @@ Intelligence should live on the devices you already own, with your full context,
 
 ---
 
-## Where Off Grid AI is headed
+## Our focus
 
-> A note from Mac to the community. None of it is fixed. I'd rather build this with you than for you.
+We are building personal AI for consumers and working with design partners to improve it through daily use.
 
-The idea I keep coming back to: intelligence should live on the devices you already own, with your full context, without you handing your life to a cloud you don't control. Today, the most useful AI is the one that knows everything about you. Getting that usually means giving everything away. I don't think it should.
+The goal is to make AI useful with your own documents, conversations, and tools, while you control what it can access and do. Local models run on your device. You choose which external tools to connect.
 
-I didn't start with this thesis fully formed. It got clearer as I built, listened, and solved my own problems. Three of those problems became three pieces that are starting to fit together. This note is where Off Grid AI is actually headed.
-
----
-
-## Three products, one ecosystem
-
-These started as three separate apps. They're becoming one ecosystem. Same brand, three products that close the loop between your physical and digital life.
+## Use Off Grid AI
 
 ### Off Grid AI Mobile (OGAM)
 
-[off-grid-ai/mobile](https://github.com/off-grid-ai/mobile)
+Chat, generate images, ask questions about photos, transcribe speech, and work with documents on your phone. Download a model and run it locally on Android or iOS.
 
-Off Grid AI Mobile is on-device intelligence in your pocket. Chat, image, vision, voice, documents, all local. This is what you're using today.
+The free app works on its own. Optional Pro features add voice replies, custom personas, and connected tools that prepare actions for your approval.
 
-It will also double as an opt-in offline recorder. Think AI meeting recorder, but for life, with all processing on device and nothing ever shared. What Off Grid AI Desktop does for your laptop, Off Grid AI Mobile does for your phone. Never forget anything ever again.
-
-**Pro is live.** The free app is fully usable on its own; Pro unlocks the deeper layer (MCP connectors, skills, automation) for people who want to push it further.
-
-[Google Play](https://play.google.com/store/apps/details?id=ai.offgridmobile) · [App Store](https://apps.apple.com/us/app/off-grid-local-ai/id6759299882)
+[Source code](https://github.com/off-grid-ai/OGAM) · [Google Play](https://play.google.com/store/apps/details?id=ai.offgridmobile) · [App Store](https://apps.apple.com/us/app/off-grid-local-ai/id6759299882)
 
 ### Off Grid AI Desktop (OGAD)
 
-[off-grid-ai/desktop](https://github.com/off-grid-ai/desktop)
+Use local AI on Linux, Windows, and macOS. Chat, create images, use voice, and work with your files. An OpenAI-compatible API lets other apps use your local models.
 
-Off Grid AI Desktop is what My Memories becomes. My Memories came first, before Off Grid AI. It's a macOS app that watches relevant LLM windows and your browser, understands what each conversation is about, and stores it as memory. Your thinking across every model lives in one place that's yours, even after you switch tools.
+Optional Pro features add memory and tools to help with your work. You approve actions before they run.
 
-It's grown well past that. Off Grid AI Desktop is now a full local-first AI studio: chat with vision and reasoning, on-device image generation, voice in and out, live artifacts, and projects you can ground in your own documents. Everything runs on a model you download, behind one local OpenAI-compatible gateway, so any app on your machine can use it as its private AI backend. No accounts, no API keys, nothing leaves the device.
+[Source code](https://github.com/off-grid-ai/OGAD) · [Releases](https://github.com/off-grid-ai/OGAD/releases)
 
-On top of that runs the part I care about most: a layer that sees your day where you work (screen, meetings, the work context that makes everything else useful), remembers it, helps you reflect on it, and, with your approval, acts on it. The intelligence layer for your laptop.
+### Off Grid AI Sync (OGAS)
 
-**Pro is live.** The open build runs free on its own; Pro adds that sees / remembers / acts layer — screen capture, meetings, reflection, approvals and actions, skills automation.
+Share files and text between your devices over your local network, without a third-party relay.
 
-### Off Grid AI Sync
+[Source code](https://github.com/off-grid-ai/OGAS)
 
-[off-grid-ai/sync](https://github.com/off-grid-ai/sync)
+## Build with us as a design partner
 
-Off Grid AI Sync is what Easy Share becomes. Easy Share solved a different itch: moving sensitive text and files between my own devices without a third party in the middle. Think AirDrop, but Android to macOS and back. Private, open source, no data collected. I built it because I needed it.
+Help us shape Off Grid AI around work you already do. Bring a task, try the products in your daily routine, and tell us where they help or fail.
 
-As Off Grid AI Sync it becomes the backbone that moves all of this between your devices, privately and seamlessly.
+To start a conversation, join the community and share what you want to do, which devices you use, and what your current tools cannot do.
 
----
+[Talk to us on Slack](https://join.slack.com/t/off-grid-mobile/shared_invite/zt-3q7kj5gr6-rVzx5gl5LKPQh4mUE2CCvA) · [Join us on Reddit](https://reddit.com/r/off_grid_ai)
 
-## When teams asked for it: Off Grid AI Console (OGAC)
+## Contribute
 
-[off-grid-ai/console](https://github.com/off-grid-ai/console)
+The source code is available in the product repositories. Report a problem, suggest a change, or open a pull request in the relevant repository.
 
-The three products above are for you. Console is for the company you work in. Individual productivity with AI is already solved — any one person gets more done with a chatbot. Harnessing that across a whole organization is not. Console is the attempt to crack that: give **every employee, not just engineers**, the power to put frontier models to work on the company's own data and processes — describe what you need in plain language, get back a working, governed workflow — with governance on every call. Real change reaches the population through the enterprises that serve it, so the way to have impact at that scale is to make those enterprises intelligent, in the hands of the people who already run them.
-
-Off Grid AI Console is **AWS for AI** — open source, and built on open source — so your AI usage is reliable, secure, governed, and compliant by default. It's the bridge between everything already inside the enterprise (your data, your context, your processes, your people) and the fast-rising intelligence of frontier models. Every piece you'd otherwise wire together yourself — the gateway to the models, evals, guardrails, PII masking, data pipelines, audit, lineage, knowledge bases — is already here and connected. AWS meant you stopped assembling servers; this means you stop assembling AI infrastructure. Set your organization's rules, policies, guardrails, and knowledge once, and everyone builds governed AI on top — while each device keeps running its models locally. Designed so non-technical people can codify what they do and multiply their output. The one-stop platform.
-
-It's built as the five planes of agentic AI, with QA, grounding, evals, drift detection, and provenance running in-path on every request — not bolted on after:
-
-- **Data** — connect your databases, warehouses, and SaaS; ingest into a private knowledge base with PII masking, cataloging, and retention/erasure.
-- **Control** — the gateway as a single chokepoint: policy, model routing, guardrails, RBAC/ABAC, and an append-only audit log on every call.
-- **AI** — the Brain: retrieval, grounding (does each claim follow from its cited source?), and a tool and agent registry.
-- **Org / Regulatory** — live framework coverage, a governance registry, cost attribution by team and project, and one-click regulator/DPIA packs built from real evidence.
-- **Consumption** — the agents themselves: pre-built use cases, each run traced end to end (plan → retrieve → ground → answer) with citations you can inspect.
-
-And running across all of it: **Agent QA** — proof the agents are still doing a good job. Shipping an agent is the start, not the finish: models drift, prompts rot, retrieval degrades, and a system that was correct last month can quietly get worse. Agent QA answers "are they working, and if not, which one regressed and when?" across three lanes:
-
-- **Offline evals** — golden-set recall plus promptfoo assertion matrices and Ragas RAG metrics, to regression-test agents before release.
-- **Online scoring** — an LLM-as-judge scores live traffic for quality and faithfulness and trends it in Langfuse; a falling score is your alarm.
-- **Drift & degradation** — population-stability plus Evidently test suites catch distribution shift and quality decay over time.
-
-It runs in-path on every request, alongside OpenTelemetry traces and per-call cost — so quality is an ongoing production signal, not a one-time pre-release check.
-
-It's modular and API-first, so a team can take just the Brain, just the agents, just the API, or the whole plane. And because every device still runs locally, you get all of this without your data leaving the company, on open foundations you can inspect and run yourself. This is how Off Grid AI pays for itself: the core stays open and free for individuals; organizations pay for the layer that deploys and governs agents at scale.
-
----
-
-## How we build the intelligent layer
-
-This isn't one of those open-ended agents you hand the keys to and hope it figures things out. Even the open-source ones running local models work that way. Ours is structured, with guardrails you set, so you stay in control. That structure is what makes the upside real instead of reckless.
-
-I'll be honest about the timeline. This is a hard problem, even with AI in the loop. It will take time, and I'll get parts of it wrong before I get them right. I'd rather tell you that now than pretend otherwise.
-
----
-
-## The deal, plainly
-
-The core stays open. The integration that ties these three products together is open source and free. Everything runs on your device. No vendor lock-in, no data collected.
-
----
-
-## Get involved
-
-A lot of what's here exists because of feedback from the community. You've shaped this more than once already.
-
-What would make this genuinely useful for how you actually work and live? Tell me.
-
-[Join the Slack community](https://join.slack.com/t/off-grid-mobile/shared_invite/zt-3q7kj5gr6-rVzx5gl5LKPQh4mUE2CCvA)
-
-<div align="center">
-<sub>— Mac</sub>
-</div>
+[Website](https://getoffgridai.co/) · [Slack](https://join.slack.com/t/off-grid-mobile/shared_invite/zt-3q7kj5gr6-rVzx5gl5LKPQh4mUE2CCvA) · [Reddit](https://reddit.com/r/off_grid_ai)
