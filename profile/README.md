@@ -8,7 +8,6 @@ Available across Android, iOS, Linux, Windows, and macOS.
 
 [![OGAM stars](https://img.shields.io/github/stars/off-grid-ai/OGAM?style=flat&logo=github&label=OGAM&labelColor=000000&color=059669)](https://github.com/off-grid-ai/OGAM/stargazers)
 [![OGAD stars](https://img.shields.io/github/stars/off-grid-ai/OGAD?style=flat&logo=github&label=OGAD&labelColor=000000&color=059669)](https://github.com/off-grid-ai/OGAD/stargazers)
-[![OGAS stars](https://img.shields.io/github/stars/off-grid-ai/OGAS?style=flat&logo=github&label=OGAS&labelColor=000000&color=059669)](https://github.com/off-grid-ai/OGAS/stargazers)
 [![Slack](https://img.shields.io/badge/Slack-Join%20Community-4A154B?logo=slack)](https://join.slack.com/t/off-grid-mobile/shared_invite/zt-3q7kj5gr6-rVzx5gl5LKPQh4mUE2CCvA)
 [![Reddit](https://img.shields.io/badge/Reddit-r%2Foff_grid_ai-FF4500?logo=reddit&logoColor=white)](https://reddit.com/r/off_grid_ai)
 
@@ -38,23 +37,23 @@ The free app works on its own. Optional Pro features add voice replies, custom p
 
 Use local AI on Linux, Windows, and macOS. Chat, create images, use voice, and work with your files. An OpenAI-compatible API lets other apps use your local models.
 
-Optional Pro features add memory and tools to help with your work. You approve actions before they run.
+Optional Pro features add memory and tools to help with your work on supported platforms. You approve actions before they run.
 
 [Source code](https://github.com/off-grid-ai/OGAD) · [Releases](https://github.com/off-grid-ai/OGAD/releases)
 
-### Off Grid AI Sync (OGAS)
+## One assistant across your devices
 
-Share files and text between your devices over your local network, without a third-party relay.
+Pro includes Sync between paired devices. Keep your chats, projects, model settings, generated images, and attachments in step across Mobile and Desktop. Transfers are encrypted between your devices. No Off Grid AI server receives or stores the content you sync.
 
-[Source code](https://github.com/off-grid-ai/OGAS)
+[See Pro features](https://getoffgridai.co/pro/)
 
 ## Build with us as a design partner
 
-Help us shape Off Grid AI around work you already do. Bring a task, try the products in your daily routine, and tell us where they help or fail.
+Run a business with fewer than 50 people? Work directly with us on a task or process you want to improve. Show us how you do the work today, test the solution, and give us feedback.
 
-To start a conversation, join the community and share what you want to do, which devices you use, and what your current tools cannot do.
+Setup and implementation are free. If we create a product based on your input, you get free lifetime access to that product. If your idea fits Off Grid AI, you get free lifetime Pro, even if we do not build the full solution together.
 
-[Talk to us on Slack](https://join.slack.com/t/off-grid-mobile/shared_invite/zt-3q7kj5gr6-rVzx5gl5LKPQh4mUE2CCvA) · [Join us on Reddit](https://reddit.com/r/off_grid_ai)
+[Read the design partner offer](https://getoffgridai.co/design-partners/) · [Email us](mailto:design.partners@getoffgridai.co)
 
 ## Contribute
 
