@@ -11,7 +11,7 @@ Run AI on the devices you already own. Keep your models and personal data under 
 
 [![OGAM stars](https://img.shields.io/github/stars/off-grid-ai/OGAM?style=flat&logo=github&label=OGAM&labelColor=000000&color=059669)](https://github.com/off-grid-ai/OGAM/stargazers)
 [![OGAD stars](https://img.shields.io/github/stars/off-grid-ai/OGAD?style=flat&logo=github&label=OGAD&labelColor=000000&color=059669)](https://github.com/off-grid-ai/OGAD/stargazers)
-[![Slack](https://img.shields.io/badge/Slack-Join%20Community-4A154B?logo=slack)](https://join.slack.com/t/off-grid-mobile/shared_invite/zt-3q7kj5gr6-rVzx5gl5LKPQh4mUE2CCvA)
+[![Slack](https://img.shields.io/badge/Slack-Join%20Community-4A154B?logo=slack)](https://join.slack.com/t/off-grid-mobile/shared_invite/zt-494gbuv5c-kj9tT7U0AS8Kq8UUO63_jw)
 [![Reddit](https://img.shields.io/badge/Reddit-r%2Foff_grid_ai-FF4500?logo=reddit&logoColor=white)](https://reddit.com/r/off_grid_ai)
 
 <br clear="left" />
@@ -62,4 +62,4 @@ Setup and implementation are free. If we create a product based on your input, y
 
 The source code is available in the product repositories. Report a problem, suggest a change, or open a pull request in the relevant repository.
 
-[Website](https://getoffgridai.co/) · [Slack](https://join.slack.com/t/off-grid-mobile/shared_invite/zt-3q7kj5gr6-rVzx5gl5LKPQh4mUE2CCvA) · [Reddit](https://reddit.com/r/off_grid_ai)
+[Website](https://getoffgridai.co/) · [Slack](https://join.slack.com/t/off-grid-mobile/shared_invite/zt-494gbuv5c-kj9tT7U0AS8Kq8UUO63_jw) · [Reddit](https://reddit.com/r/off_grid_ai)
