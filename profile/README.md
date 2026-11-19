@@ -40,7 +40,7 @@ Most people pay a separate monthly bill for each AI job. Off Grid AI does them a
 | Images and video | Midjourney | $288 | Images free, video with Pro |
 | **All of it** | | **Over $5,000** | **[One Pro payment](https://getoffgridai.co/pro/?utm_source=github&utm_medium=org-readme)** |
 
-<sub>Prices from each app's own site, with sources in [private-ai-apps](https://github.com/off-grid-ai/private-ai-apps#23-which-ai-subscriptions-one-app-can-replace).</sub>
+<sub>Prices from each app's own site, with sources in [awesome-private-ai-apps](https://github.com/off-grid-ai/awesome-private-ai-apps#23-which-ai-subscriptions-one-app-can-replace).</sub>
 
 ## Free on every device
 
